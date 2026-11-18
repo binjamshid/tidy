@@ -70,4 +70,8 @@ For a verified, trusted unsigned artifact, use the documented per-app [Gatekeepe
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Starting with the source version published when this licensing change merges into `main`, original Tidy software is released under the [Binjamshid Public Fork License 1.0](LICENSE) to the extent its copyright holders have authority to license it. Separately licensed material retains its own terms and notices.
+
+Source and releases previously published under MIT, including `v0.1.0` and `v1.5.0`, retain their original grants under the [MIT License](LICENSE-MIT).
+
+The new license prohibits use for a commercial purpose of a for-profit organization, including use on its behalf. If you modify covered software, you must publish the corresponding source of each modified version, including private edits, under the same license in a public version-control repository. Publish within 30 calendar days of the change or before you first distribute the modified version or allow others to use it as a service, whichever comes first. Section 4 provides a limited exception for coordinated security fixes.

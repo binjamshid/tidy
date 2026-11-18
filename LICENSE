@@ -1,21 +1,97 @@
-MIT License
+Binjamshid Public Fork License, Version 1.0
 
-Copyright (c) 2026 Ajraba04
+1. Scope
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies to software that a copyright holder publicly releases
+under this license, and to modifications of that software made under this
+license. Each copyright holder grants rights only in material they have
+authority to license. Separately licensed third-party material retains its
+own terms and notices. Rights previously granted under another license
+remain available on the terms of that grant. Placing a copy of this text in
+a private repository does not authorize public disclosure of that repository.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Subject to the conditions below, each licensing copyright holder grants you
+a worldwide, royalty-free, nonexclusive copyright license to use, study,
+copy, modify, run, and distribute the covered software in source or binary
+form, and to make it available as a network service. Each recipient receives
+these permissions directly from the relevant copyright holders. You may
+exercise rights that the law gives you independently of this license.
+
+3. Commercial use by for-profit organizations
+
+You may not exercise the permissions in section 2 for a commercial purpose
+of a for-profit organization, whether you act as that organization or on
+its behalf. A for-profit organization includes a business operated for the
+financial benefit of its owners, including a sole proprietorship. Commercial
+purposes include operating its business internally, providing client work,
+and building, improving, promoting, selling, or hosting its products or
+services. Giving a product or service away does not by itself remove its
+commercial purpose. Employment by a business does not by itself restrict
+independent personal work. Anyone may give or accept optional financial
+support for otherwise permitted work. Payment grants no additional rights.
+
+4. Public source for every modification
+
+If you edit the covered software, you must publish the corresponding
+source of each modified version in a publicly accessible version-control
+repository under this exact license, including the changes you own. This
+applies even to local edits, uncommitted or abandoned changes, internal
+use, and versions you never distribute or deploy. You may use any public
+repository host. No submission to or acceptance by the original project
+is required.
+
+Publish within 30 calendar days of making the change, or before you first
+distribute the modified version or allow others to use it as a service,
+whichever comes first. Multiple changes may be published together if each
+modified version can be recovered from the public history on time. Keep
+each version freely downloadable without registration for as long as you
+distribute it or offer it as a service, and for at least twelve months
+after its first publication. Give recipients of a modified version and
+users of a modified service an accessible link to its corresponding source.
+
+For a fix whose publication would disclose an unremediated vulnerability,
+you may delay source publication until the first public disclosure of the
+vulnerability or 90 calendar days after making the fix, whichever comes
+first. Use this exception only when necessary for coordinated remediation
+and promptly notify the affected maintainer privately. The ordinary
+deadline still applies if it would expire later. During the delay you may
+privately share the fix with affected maintainers or operators to remediate
+the vulnerability. This exception does not apply to unrelated changes.
+
+Corresponding source is the preferred editable form of the covered
+software as modified, including the scripts, build instructions and
+dependency information needed to reproduce it. Preserve notices and
+identify your changes. Where a separately licensed dependency is available
+from its publisher, you may identify its source and version. Keep secrets,
+personal data and private configuration values out of the public source.
+Supply safe placeholders or sample configuration where needed. For all
+publication and history requirements, a revision sanitized in this way
+satisfies the requirement if its covered code changes remain recoverable.
+This license
+does not require publishing independent programs, third-party private
+material, or user data, or give permission to disclose them.
+
+5. Redistribution
+
+Include this license and preserve applicable copyright and third-party
+notices in copies and distributions, including binary distributions.
+Distribute covered modifications under this exact license and do not
+impose additional restrictions on recipients' exercise of its permissions.
+No trademark rights are granted.
+
+6. Termination and disclaimer
+
+Your permissions terminate automatically upon breach. On your first breach
+they are reinstated if you fully cure it within 30 calendar days after you
+learn of it. Termination does not terminate the permissions of recipients
+who comply independently. Publication obligations for modifications already
+made survive termination.
+
+To the extent permitted by applicable law, the software is provided as is,
+without warranty of any kind, including warranties of merchantability,
+fitness for a particular purpose, title and noninfringement. To the extent
+permitted by applicable law, no licensing copyright holder or contributor
+is liable for damages arising from the software or its use, whether in
+contract, tort or otherwise.
